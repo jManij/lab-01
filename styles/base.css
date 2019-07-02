@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  border: 1px solid grey;
+}
+
+main{
+  /* margin: auto; */
+  text-align: center;
+}
+
+body{
+  margin: auto;
+}
